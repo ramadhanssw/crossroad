@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1588390702 source:e:\tugas\semester 2\program oop\crossroad ujicoba\crossroad ujicoba\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<MMsystem.h>
+	<fstream>
+
+1588674352 source:e:\tugas\semester 2\program oop\crossroad\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<MMsystem.h>
+	<fstream>
+
